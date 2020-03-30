@@ -14,7 +14,7 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
   return (
     <Container>
-      ok
+      Estudando
       <Switch
         onChange={toggleTheme}
         checked={title === "dark"}
